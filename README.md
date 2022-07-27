@@ -2,6 +2,9 @@
 
 ![Groupes entreprises pneus automobile](Les_groupes_dans_les_pneus.png?raw=true "Les groupes d'entreprises dans les pneus et l'automobile")
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+
 ## Liste des groupes avec leurs filiales
 
 - Michelin Group [🇫🇷]
